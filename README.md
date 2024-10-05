@@ -30,8 +30,8 @@ To run the models in simulink, run this script with the designated model name.
 
 ## Lessons Learned
 
-1) We learnt what is a spectrum and how it used in networks.
-2) We created alogrithms and models to allocate these spectrum dynamically for IoT devices.
+1) We learnt what is a spectrum and how it is used in networks.
+2) We created algorithms and models to allocate these spectrum dynamically for IoT devices.
 3) We applied this knowledge to implement in one of our college IoT labs.
 4) We learnt how to use simulink and matlab with other modelling softwares.
 
